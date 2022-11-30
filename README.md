@@ -13,11 +13,13 @@ Este archivo lo debera colocar en la carpeta raiz del proyecto
  - Link del **[archivo .env](https://drive.google.com/file/d/1gl6E1_oEa51vuXKWmDJwwztECidA5I4J/view?usp=sharing)**
  - Link de la **[base de datos](https://drive.google.com/file/d/1gl6E1_oEa51vuXKWmDJwwztECidA5I4J/view?usp=sharing)**
  
- Ya con el archivo en el proyecto solo debera colocar en la terminal:
+ 
+ 
+ si no desea descargarla base de datos a solo debera crear una base de datos con el nombre : el_tigre; y colocar en la terminal el siguiente comando para genrar las tablas
  
         - php artisan migrate
 
- Con esos comandos ya deberia de funcionar el proyecto.
+ Con ese comandos ya deberia de funcionar el proyecto.
  
  
  ### Nota: 
