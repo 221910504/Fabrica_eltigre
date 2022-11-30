@@ -8,7 +8,7 @@ Una vez decargado el proyecto deveran inigresar los sigientes comandos de instal
 
 ## Para el siguiente paso debera descargar el archivo ".env" y la "Base de Datos"
 
-Una vez descargado el archvivo env lo debera colocar en la carpeta raiz del proyecto, tambien agregar "." al principio del nombre ya que cuando se descarga no aparece 
+Una vez descargado el archvivo "env" lo debera colocar en la carpeta raiz del proyecto, tambien agregar "." al principio del nombre ya que cuando se descarga no aparece 
 
  - Link del **[archivo .env](https://drive.google.com/file/d/1gl6E1_oEa51vuXKWmDJwwztECidA5I4J/view?usp=sharing)**
  - Link de la **[base de datos](https://drive.google.com/file/d/1gl6E1_oEa51vuXKWmDJwwztECidA5I4J/view?usp=sharing)**
